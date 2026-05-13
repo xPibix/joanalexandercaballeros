@@ -21,7 +21,7 @@ export function Hero() {
         <div className="hidden lg:block absolute inset-0">
           <div className="absolute right-0 top-0 h-full w-[55%]">
             <Image
-              src="/primera.png"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg-9PkIYV4zQuGZBo9ZYqZD38gJHFAQRs.jpeg"
               alt="Joan Alexander - High-End Barbershop"
               fill
               className="object-cover object-[center_top]"
@@ -33,7 +33,7 @@ export function Hero() {
         {/* Mobile image - positioned to show face, moved down */}
         <div className="lg:hidden absolute inset-0">
           <Image
-            src="/primera.png"
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bg-9PkIYV4zQuGZBo9ZYqZD38gJHFAQRs.jpeg"
             alt="Joan Alexander - High-End Barbershop"
             fill
             className="object-cover object-[center_35%]"
